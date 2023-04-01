@@ -1,4 +1,4 @@
-# Tkinter Desktop Interfaces Templates
+# Python Desktop Interfaces Templates
 <h2 align="left">Template 1</h2>
 <div align="center">
    <p align="center"><img width="564" alt="22" src="https://user-images.githubusercontent.com/74218805/185815098-f0b6d60c-aaa7-40c6-bcae-f8ec2363ab1b.PNG"></p>
