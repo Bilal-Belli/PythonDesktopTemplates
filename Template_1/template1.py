@@ -45,7 +45,7 @@ Btn1 = Button(root,fg= "#000", image=my_img,borderwidth=1)
 Btn1.grid(column=1, row=1, ipadx=56,ipady=10)
 
 var = StringVar()
-var.set("Wirte Here what you can change dynamicly")
+var.set("Wirte Here")
 labelAfterButton = Label( root,fg= "#000", textvariable=var, relief=RAISED ,borderwidth=3,width=86 , height=3)
 labelAfterButton.grid(column=2, row=1)
 
